@@ -114,7 +114,3 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Acknowledgements
-- **The source code for the ATM Machine project is available under the MIT License from [ATM Machine Project](https://github.com/rajyash1904/ATM-Machine).**
-- Special thanks to the respective owners for providing the original ATM Machine code.
-
